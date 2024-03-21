@@ -4,7 +4,7 @@
 SPECIFIED_PATH='/home/ubuntu'
 REQUIRED_DISK_SPACE_GB=2
 
-# Required versions
+# Required versions 
 required_java_version='openjdk 11.0.13'
 required_git_version='2.17.1'
 required_python_version='2.7.17'
